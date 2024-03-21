@@ -1,0 +1,27 @@
+  // let firstIndex = Math.round(Math.random() * 1000) % 4;
+  // let secondIndex;
+  // let thirdIndex;
+  // let fourthIndex;
+
+  // while (secondIndex == undefined || firstIndex === secondIndex) {
+  //   secondIndex = Math.round(Math.random() * 1000) % 4;
+  // }
+
+  // while (
+  //   thirdIndex == undefined ||
+  //   firstIndex === thirdIndex ||
+  //   secondIndex == thirdIndex
+  // ) {
+  //   thirdIndex = Math.round(Math.random() * 1000) % 4;
+  // }
+
+  // while (
+  //   fourthIndex == undefined ||
+  //   firstIndex === fourthIndex ||
+  //   secondIndex === fourthIndex ||
+  //   thirdIndex === fourthIndex
+  // ) {
+  //   fourthIndex = Math.round(Math.random() * 1000) % 4;
+  // }
+
+  // const randomIndices = [firstIndex, secondIndex, thirdIndex, fourthIndex];
